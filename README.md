@@ -15,7 +15,7 @@ Co robi ta opcja? Wyłącza ona bypass dla administracji w topkach, jest to przy
 
 # Zainstalowanie placeholderów
 
-Kolejnym krokiem będzie instalacja placeholderów, ja chciałbym zrobić topke skoczów, więc pobiorę expansion: [Statistic](https://api.extendedclip.com/expansions/statistic/)
+Kolejnym krokiem będzie instalacja placeholderów, ja chciałbym zrobić topke skoczków, dlatego pobiorę expansion: [Statistic](https://api.extendedclip.com/expansions/statistic/)
 
 Więc do pobrania użyje komend:
 - /papi ecloud download Statistic (Pamiętaj o przeładowaniu pluginu po zainstalowaniu placeholderu: /papi reload)
