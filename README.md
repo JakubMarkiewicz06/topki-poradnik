@@ -102,5 +102,18 @@ Gotowy efekt: https://github.com/user-attachments/assets/01352bd8-9857-4a10-8e1b
 **Jak zmienić wiadomość zwrotną, gdy nie ma gracza w topce?**
 
 - Przejdź do konfiguracji ajleaderboards: ``plugins:ajLeaderboards/config.yml`` i zmień opcje: ``no-data-name``, oraz ``no-data-score``
+# Dodatkowe informacje
+
+**Jak wyświetlać graczy online/offline w topkach?**
+- /papi ecloud download Utils
+- /papi ecloud download ChangeOutput
+- /papi ecloud download player
+- /papi reload
+- Ustawiasz placeholder: ``&71. %utils_parseplaceholder:[{ajlb_lb_statistic_jump_1_alltime_name}]_changeoutput_equals_input:{player_online}_matcher:yes_ifmatch:&a{ajlb_lb_statistic_jump_1_alltime_name} &7- &a_else:&c{ajlb_lb_statistic_jump_1_alltime_name} &7- &c%%ajlb_lb_statistic_jump_1_alltime_value%``
+
+⚠ UWAGA! Gdy placeholder jest wyświetlany, musi być już wcześniej dostepny w topce, w przeciwnym razie placeholder może spowodować obiążenie serwera.
+Przykładowo: Miejsce 3 jest puste, więc do momentu gdy na miejsce 3 nie wejdzie Maciek123, placeholder będzie lagował serwer. Po zajęciu miejsca 3 i opuszczeniu przez gracza serwera problem przestanie występować. Aktualnie by to naprawić możesz w szcztuczny sposób uzupełnić topke, wchodząc przykładowo na serwer na altach.
+
+Gotowy efekt: ![image](https://github.com/user-attachments/assets/9c72389b-cdc8-45ea-9a74-85e14dae6a7b)
 
 
