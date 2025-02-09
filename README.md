@@ -114,6 +114,6 @@ Gotowy efekt: https://github.com/user-attachments/assets/01352bd8-9857-4a10-8e1b
 ⚠ UWAGA! Gdy placeholder jest wyświetlany, musi być już wcześniej dostepny w topce, w przeciwnym razie placeholder może spowodować obiążenie serwera.
 Przykładowo: Miejsce 3 jest puste, więc do momentu gdy na miejsce 3 nie wejdzie Maciek123, placeholder będzie lagował serwer. Po zajęciu miejsca 3 i opuszczeniu przez gracza serwera problem przestanie występować. Aktualnie by to naprawić możesz w szcztuczny sposób uzupełnić topke, wchodząc przykładowo na serwer na altach.
 
-Gotowy efekt: ![image](https://github.com/user-attachments/assets/9c72389b-cdc8-45ea-9a74-85e14dae6a7b)
+Gotowy efekt: https://github.com/user-attachments/assets/9c72389b-cdc8-45ea-9a74-85e14dae6a7b
 
 
