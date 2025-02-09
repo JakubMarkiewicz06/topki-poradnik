@@ -66,7 +66,7 @@ Gotowy efekt: https://github.com/user-attachments/assets/e9b51ee9-6c4c-45bb-a912
 
 Gotowy efekt: https://github.com/user-attachments/assets/a30e4387-9cab-4d3b-a851-6985bf2ec499
 
-Dodanie topek na tabliste
+# Dodanie topek na tabliste
 
 **[TAB](https://modrinth.com/plugin/tab-was-taken)**
 
