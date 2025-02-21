@@ -102,7 +102,6 @@ Gotowy efekt: https://github.com/user-attachments/assets/01352bd8-9857-4a10-8e1b
 **Jak zmienić wiadomość zwrotną, gdy nie ma gracza w topce?**
 
 - Przejdź do konfiguracji ajleaderboards: ``plugins:ajLeaderboards/config.yml`` i zmień opcje: ``no-data-name``, oraz ``no-data-score``
-# Dodatkowe informacje
 
 **Jak wyświetlać graczy online/offline w topkach?**
 - /papi ecloud download Utils
