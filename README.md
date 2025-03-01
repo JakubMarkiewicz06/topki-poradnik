@@ -1,3 +1,4 @@
+# Sekcja poświęcona pluginowi ajLeaderboards
 # Wymagane pluginy
 
 Pierwszym krokiem będzie pobranie wymaganych pluginów, w tym celu pobierzemy:
@@ -115,4 +116,6 @@ Przykładowo: Miejsce 3 jest puste, więc do momentu gdy na miejsce 3 nie wejdzi
 
 Gotowy efekt: https://github.com/user-attachments/assets/9c72389b-cdc8-45ea-9a74-85e14dae6a7b
 
+# Sekcja poświęcona pluginowi topper
 
+Ta część poradnika nie jest jeszcze gotowa!
